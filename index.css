@@ -1,5 +1,15 @@
 .junk-one {
-    margin: 1px;
     border: solid black 2px;
+    color: green;
     width: 300px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.junk-two {
+    color: green;
+    border: solid black 1.8px;
+    width: 320px;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: left;
 }
